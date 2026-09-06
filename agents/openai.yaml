@@ -1,0 +1,4 @@
+interface:
+  display_name: "好好写作"
+  short_description: "写自然的中文，用好奇心带出发现与感受，配上帮助理解的温暖手绘插图"
+  default_prompt: "用 $haohao-writing 把这些材料写成语言自然、让人不断发现的文章，从具体事情写出更深的理解与感受，并配上帮助理解的手绘插图。"

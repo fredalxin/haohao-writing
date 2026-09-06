@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+/:memory:.ses
+/articles/
+/videos/
+/audits/
+/dist/*
+!/dist/haohao-writing.zip
